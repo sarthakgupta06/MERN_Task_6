@@ -1,0 +1,4 @@
+table, tr, td, th{
+    border-radius: 10px;
+    border-color: black;
+}
